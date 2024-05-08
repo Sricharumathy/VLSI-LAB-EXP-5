@@ -58,10 +58,10 @@ endmodule
 ```
 
 ## OUTPUT:
-
-
+![Screenshot 2024-05-08 095727](https://github.com/Sricharumathy/VLSI-LAB-EXP-5/assets/159044760/1137c9ef-ce55-4089-af23-1099a00328e0)
 
 ## RESULT:
+Thus the verilog code for FSM verified and executed successfully.
 
 
 
